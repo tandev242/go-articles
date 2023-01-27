@@ -1,4 +1,4 @@
-# ![GO ARTICLES](logo.png)
+# ![GO ARTICLES]
 
 
 > ### Golang/Gin codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/tandev2k/go-articles) spec and API.
